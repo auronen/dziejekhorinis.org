@@ -8,7 +8,7 @@ module.exports = {
   teamSoulfireLabel: "Team SoulFire",
   homepageDescription: `
    <h2 class="navtext">Informace</h2>
-   <span class="info-txt txt-shadow">The History of Khorinis is a free extension to the game Gothic II: Gold Edition, introducing a completely new story set in unsure times, over 10 years before the events of the first and second part of the Gothic series.<br />Our modification will be developed in two parts: „The History of Khorinis” happening on a new island - Vaduz and „The History of Khorinis II” on on a well-known and familiar Khorinis.
+   <span class="info-txt txt-shadow">Historie Khorinisu je rozšíření zdarma pro hru Gothic II: Gold Edition, introducing a completely new story set in unsure times, over 10 years before the events of the first and second part of the Gothic series.<br />Our modification will be developed in two parts: „The History of Khorinis” happening on a new island - Vaduz and „The History of Khorinis II” on on a well-known and familiar Khorinis.
 </span><br><br>
    <h2 class="navtext">Character and world</h2>
    <span class="info-txt txt-shadow">
